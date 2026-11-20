@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=ClearClock
+Comment=An intelligent clock that adapts to the background.
+
+Exec=/usr/bin/ClearClock
+Icon=utilities-clock
+Terminal=false
+Type=Application
+Categories=Utility;
+
+X-KDE-DBUS-Restricted-Interfaces=org.kde.KWin.ScreenShot2
